@@ -80,4 +80,14 @@ The Jump To Section feature comes with a search bar for when you need to find a 
 
 ## Submitting a new form
 
-Once you have reached the last page of the form, you will be prompted to submit the form.
+Once you have filled out all the sections you need, click on the Submit button at the bottom of the last page of the form.
+
+You will see a green pop-up window on the top right-hand corner of the screen that confirms your entry has been submitted.
+
+<p align="center">
+<img src="./images/submit-form.gif" height="500"/>
+</p>
+
+All new entries are first saved as drafts, which can be found under the Drafts tab.
+
+It can take a few minutes for the app to save your entry to the database and to display it on the Forms page. If you are offline when you click submit, the entry will be saved under the Drafts tab until you are connected to the internet.
