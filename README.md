@@ -1,6 +1,6 @@
 # Getting started with Harness V2
 
-Harness is an app that works with any device that has a screen, including smartphones, tablets, and laptops, and desktop computers. We provide a platform for construction companies to better manage their health and safety program.
+Harness is an app that helps construction companies to better manage their health and safety program. Harness works with any device that has a screen, which includes smartphones, tablets, and laptops, and desktop computers.
 
 Getting up and running with Harness V2 is quick and easy. This document will walk you through the following:
 
@@ -9,6 +9,7 @@ Getting up and running with Harness V2 is quick and easy. This document will wal
 3. Accessing a form
 4. Adding a new entry
 5. Submitting a new form
+6. Seeing details of a form entry
 
 ## Logging in to Harness
 
@@ -91,3 +92,23 @@ You will see a green pop-up window on the top right-hand corner of the screen th
 All new entries are first saved as drafts, which can be found under the Drafts tab.
 
 It can take a few minutes for the app to save your entry to the database and to display it on the Forms page. If you are offline when you click submit, the entry will be saved under the Drafts tab until you are connected to the internet.
+
+## Seeing details of a form entry
+
+Once you are able to see it under the Completed tab, you can access details about the new entry by selecting it from the list:
+
+<p align="center">
+<img src="./images/entry-details.gif" height="500"/>
+</p>
+
+The entry details page has three sections:
+
+- overview
+- list of corrective actions associated with the entry
+- details of every field that has been filled in on the entry
+
+The form details section can be long. To find a particular form field or section with ease, type keywords into the search bar. The app will display any field that has been filled out, and whose field label matches the keywords.
+
+<p align="center">
+<img src="./images/entry-search.gif" height="500"/>
+</p>
